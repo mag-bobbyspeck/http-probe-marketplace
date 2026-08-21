@@ -1,0 +1,11 @@
+{
+  "name": "http-probe-marketplace",
+  "owner": { "name": "Bobby Speck" },
+  "plugins": [
+    {
+      "name": "http-probe",
+      "source": "./http-probe",
+      "description": "Throwaway probe: can a plugin-declared native-HTTP OAuth server be authorized on this surface?"
+    }
+  ]
+}

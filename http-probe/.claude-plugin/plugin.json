@@ -1,0 +1,5 @@
+{
+  "name": "http-probe",
+  "version": "0.0.1",
+  "description": "Throwaway probe: can a plugin-declared native-HTTP OAuth server be authorized on this surface?"
+}
